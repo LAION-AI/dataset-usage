@@ -20,11 +20,11 @@ After the release of LAION-400M, several papers used LAION-400M for image genera
 
 ### GLIDE finetuning
 
-Clay Mullis (alias afiaka87) used subsets of LAON-2B to fine-tune the OpenAi Glide model and managed to reintroduce human generations. Samples
+Clay Mullis (alias afiaka87) used subsets of LAON-2B to fine-tune the Open-AI Glide model and managed to reintroduce human generations.
 
-https://replicate.com/afiaka87/laionide-v3 
-https://wandb.ai/afiaka87/glide_compare/reports/Finetuning-GLIDE-on-Laion5B–VmlldzoxNTg3MTkz
-https://wandb.ai/afiaka87/laionide-v3-glide/reports/Laionide-Version-3-Benchmark–VmlldzoxNjE0MTE3
+- https://replicate.com/afiaka87/laionide-v3 
+- https://wandb.ai/afiaka87/glide_compare/reports/Finetuning-GLIDE-on-Laion5B–VmlldzoxNTg3MTkz
+- https://wandb.ai/afiaka87/laionide-v3-glide/reports/Laionide-Version-3-Benchmark–VmlldzoxNjE0MTE3
 
 ### CLOOB
 
