@@ -29,3 +29,5 @@ Clay Mullis (alias afiaka87) used subsets of LAON-2B to fine-tune the Open-AI Gl
 ### CLOOB
 
 https://github.com/crowsonkb/cloob-training
+
+# future projects
