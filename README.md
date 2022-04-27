@@ -3,6 +3,11 @@ This repository is a summary of all systems and scientific papers that use LAION
 
 ## Papers citing LAION datasets
 
+### LAION-5B
+
+T.B.C.
+
+### LAION-400M
 After the release of LAION-400M, several papers used LAION-400M for image generation, text to image generation, image to text generation and text image matching:
 
 - [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://arxiv.org/abs/2111.14822.pdf) used LAION-400M to train VQ diffusion text to image generation models
